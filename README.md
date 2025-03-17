@@ -45,11 +45,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - Maps & Geocoding: https://docs.mapbox.com/mapbox-gl-js/api/ <br>
 - Emails: https://mailtrap.io/
 
-## Contributors
-<a href="https://github.com/chr-ge/why-pigeons/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=chr-ge/why-pigeons" />
-</a>
-
 ## License
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
